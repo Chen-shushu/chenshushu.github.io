@@ -1,6 +1,6 @@
 # 安装
 
-__运行虚拟机，在里面安装flask__
+__运行虚拟机，在里面安装"flask"__
 
 ## 先创建一个虚拟环境
 
@@ -40,7 +40,7 @@ def hello_world():      #Flask应用程序实例的run方法启动WEB服务器
 
 ![1626869214943](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\1626869214943.png)
 
-**这个是在pycharm里面做的，要记得安装pycharm。**
+**这个是在" pycharm"里面做的，要记得安装"pycharm"。**
 
-**我是在pycharm里面新建了一个flask的项目。**
+**我是在"pycharm"里面新建了一个flask的项目。**
 
