@@ -31,7 +31,7 @@ app = Flask(__name__)    #Flask类接收一个参改__name__
 
 # 装饰器的作用是将路由映射到视图函数index
 @app.route("/")         
-def hello_world():      #Flask应用程序实例的run方法启动WEB服务器
+def hello_world():      
     return "<p>Hello, World!</p>"
 
 ````
