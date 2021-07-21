@@ -36,7 +36,7 @@ def hello_world():
 
 ````
 
- ![第一个项目](C:\Users\Lenovo\Desktop\第一个项目.jpg)
+ ![第一个项目](C:\Users\Lenovo\Desktop\第一个项目.jpg)（图片的问题我在弄）
 
 ![1626869214943](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\1626869214943.png)
 
